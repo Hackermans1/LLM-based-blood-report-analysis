@@ -1,0 +1,6 @@
+pip install langchain==0.0.149
+pip install unstructured==0.6.5
+pip install pdf2image==1.16.3
+pip install pytesseract==0.3.10
+pip install pypdf==3.8.1
+pip install faiss-cpu==1.7.4
