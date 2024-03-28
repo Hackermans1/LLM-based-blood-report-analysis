@@ -1,3 +1,4 @@
+import numpy
 from langchain import PromptTemplate, LLMChain
 from langchain.llms import GPT4All
 from langchain.callbacks.base import CallbackManager
