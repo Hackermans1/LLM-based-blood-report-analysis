@@ -1,4 +1,8 @@
 ### Phase 1 
+@models used:
+  - alpaca-native-7B-ggml
+  - gpt4all-converted.bin from hugging face
+    
 Utilizing a base the GPT4All model for semantic search, which can be repeated with other models as well but this one is most friendly for consumer grade PCs. The steps are as follows:
 
 Load GPT4All Model: Begin by loading the GPT4All model.
